@@ -112,8 +112,12 @@ header nav ul li a {
 .about_me p {
   padding: 0.18rem;
   font-size: 2rem;
+  color:#333;
 }
 
+.about_me ul li {
+  color:#333;
+}
 
 .project {
   text-align: center;
